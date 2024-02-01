@@ -14,6 +14,9 @@
 
 - [03: Type, Color, and Icon Introduction](./03-type-color-and-icon-introduction.md)
 
+- [04: Pages](./04-pages.md)
+
+
 
 
 
