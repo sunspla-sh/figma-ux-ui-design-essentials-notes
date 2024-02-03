@@ -18,7 +18,9 @@
 
 - [05: Prototyping - Level 1](./05-prototyping-level-1.md)
 
+- [06: Animation - Level 1](./06-animation-level-1.md)
 
+- [07: Commenting](./07-commenting.md)
 
-
+- [08: Mood Board - High Fidelity](./08-mood-board-high-fidelity.md)
 
