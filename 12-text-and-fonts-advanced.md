@@ -70,3 +70,5 @@
 - Alternatively, the missing font can be replaced individually by a different font in each place that it is used
 
 ## Class Project 08 - Text
+
+- Add placeholder text to your hifi mobile wireframes
