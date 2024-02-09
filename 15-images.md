@@ -10,4 +10,12 @@
 
 - "Crop" moves an image around within a given viewing window of an object, allowing you to change which section of the image is visible and which is not
 
+- "Masking" is an intersection of two objects or text
+
 ## Free Images and Plugins
+
+- Some sites for free-to-use personal/commercial images
+
+    - https://unsplash.com
+
+    - https://pexels.com
