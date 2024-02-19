@@ -10,3 +10,4 @@
 
 ## Putting It All Together in a Desktop Example
 
+- Make a desktop version of the home page, product details page, cart page, checkout page, confirmation page, and review page
