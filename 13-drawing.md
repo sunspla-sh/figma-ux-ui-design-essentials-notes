@@ -26,7 +26,7 @@
 
 - Union is a non-destructive action for joining shapes and flatten is a destructive action for joining shapes
 
-## Class Project 09
+## Class Project 09 - Making Stuff
 
 - Make at least 3 different icons using the tools learned in this section of the course, matching the following themes:
 
