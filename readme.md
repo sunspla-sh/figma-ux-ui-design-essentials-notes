@@ -52,3 +52,9 @@
 
 - [22: Making a Form](./22-making-a-form.md)
 
+- [23: Prototyping - Level 2](./23-prototyping-level-2.md)
+
+- [24: Teams and Projects](./24-teams-and-projects.md)
+
+- [25: Libraries](./25-libraries.md)
+
