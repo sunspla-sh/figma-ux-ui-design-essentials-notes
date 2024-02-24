@@ -58,3 +58,4 @@
 
 - [25: Libraries](./25-libraries.md)
 
+- [26: Animation and Microinteractions](./26-animation-and-microinteractions.md)
