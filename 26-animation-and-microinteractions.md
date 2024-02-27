@@ -18,9 +18,11 @@
 
 ## How to Make Animated Transitions
 
-- 
+- One or more frames can be used to build an animation that occurs on page transition (following the same principles from the "Animation with Custom Easing" section)
 
 ## Class Project 19 - Page Transition
+
+- Add an animation that occurs on  page transition between the Home page and the Product Details page when the "Learn More" button is clicked on the Home page
 
 ## Microinteractions Using Interactive Components
 
