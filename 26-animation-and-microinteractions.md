@@ -26,9 +26,22 @@
 
 ## Microinteractions Using Interactive Components
 
+- Interactive component sets allow microinteractions to occur when the user takes a specific action such as hovering over a button component or clicking a checkbox component
+
 ## Microinteraction Toggle Switch
+
+- Make an interactive component set for a toggle switch that changes between two variants when clicked, then use the "smart animate" setting to smooth the transition between the "on" and "off" variants of the the component set
 
 ## Microinteraction Burger Menu
 
+- Make an interactive component set for a burger menu icon that changes between two variants when clicked, then use the "smart animate" setting to smooth the transition between the "open" and "closed" variants of the the component set
+
 ## Class Project 20 - Microinteraction
 
+- Add two microinteractions to any of your pages
+
+    - The first microinteraction must be a burger menu icon that turns into a cross when clicked
+
+    - The second microinteraction can be anything you want
+
+- Make sure you're using interactive component sets with multiple variants that transition between eachother when some action occurs (e.g. on click, on hover, etc.)
